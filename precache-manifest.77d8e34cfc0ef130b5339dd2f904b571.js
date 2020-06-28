@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c90245283da01a1d29f0efdc35322b18",
+    "revision": "3b0f11ae99ddef19f26395bdefb19947",
     "url": "/rohit-website/index.html"
   },
   {
-    "revision": "d65cd05c68448e22b554",
+    "revision": "86db028c873ba2330048",
     "url": "/rohit-website/static/css/main.88be113e.chunk.css"
   },
   {
-    "revision": "9756e35f60564e6d8570",
-    "url": "/rohit-website/static/js/2.5199eb70.chunk.js"
+    "revision": "8f602f311128d1574459",
+    "url": "/rohit-website/static/js/2.42ef7f56.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/rohit-website/static/js/2.5199eb70.chunk.js.LICENSE.txt"
+    "url": "/rohit-website/static/js/2.42ef7f56.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d65cd05c68448e22b554",
-    "url": "/rohit-website/static/js/main.9b2df7ae.chunk.js"
+    "revision": "86db028c873ba2330048",
+    "url": "/rohit-website/static/js/main.813804b2.chunk.js"
   },
   {
     "revision": "375e579d88eef54713d0",

@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/rohit-website/static/css/main.88be113e.chunk.css",
-    "main.js": "/rohit-website/static/js/main.9b2df7ae.chunk.js",
-    "main.js.map": "/rohit-website/static/js/main.9b2df7ae.chunk.js.map",
+    "main.js": "/rohit-website/static/js/main.813804b2.chunk.js",
+    "main.js.map": "/rohit-website/static/js/main.813804b2.chunk.js.map",
     "runtime-main.js": "/rohit-website/static/js/runtime-main.9ef98838.js",
     "runtime-main.js.map": "/rohit-website/static/js/runtime-main.9ef98838.js.map",
-    "static/js/2.5199eb70.chunk.js": "/rohit-website/static/js/2.5199eb70.chunk.js",
-    "static/js/2.5199eb70.chunk.js.map": "/rohit-website/static/js/2.5199eb70.chunk.js.map",
+    "static/js/2.42ef7f56.chunk.js": "/rohit-website/static/js/2.42ef7f56.chunk.js",
+    "static/js/2.42ef7f56.chunk.js.map": "/rohit-website/static/js/2.42ef7f56.chunk.js.map",
     "index.html": "/rohit-website/index.html",
-    "precache-manifest.0c2384a76f648ead80b9aea61d530f04.js": "/rohit-website/precache-manifest.0c2384a76f648ead80b9aea61d530f04.js",
+    "precache-manifest.77d8e34cfc0ef130b5339dd2f904b571.js": "/rohit-website/precache-manifest.77d8e34cfc0ef130b5339dd2f904b571.js",
     "service-worker.js": "/rohit-website/service-worker.js",
     "static/css/main.88be113e.chunk.css.map": "/rohit-website/static/css/main.88be113e.chunk.css.map",
-    "static/js/2.5199eb70.chunk.js.LICENSE.txt": "/rohit-website/static/js/2.5199eb70.chunk.js.LICENSE.txt",
+    "static/js/2.42ef7f56.chunk.js.LICENSE.txt": "/rohit-website/static/js/2.42ef7f56.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/rohit-website/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9ef98838.js",
-    "static/js/2.5199eb70.chunk.js",
+    "static/js/2.42ef7f56.chunk.js",
     "static/css/main.88be113e.chunk.css",
-    "static/js/main.9b2df7ae.chunk.js"
+    "static/js/main.813804b2.chunk.js"
   ]
 }
