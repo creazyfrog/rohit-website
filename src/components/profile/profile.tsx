@@ -49,6 +49,9 @@ function ProfileComponent() {
         >
           <i className="fa fa-youtube"></i>
         </a>
+        <a className="social-links" href=" https://github.com/creazyfrog" title="GitHub">
+          <i className="fa fa-github"></i>
+        </a>
       </div>
       <div className="profile-download-button">
         <button className="download-button">
