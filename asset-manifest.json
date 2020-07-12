@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/rohit-website/static/css/main.88be113e.chunk.css",
-    "main.js": "/rohit-website/static/js/main.813804b2.chunk.js",
-    "main.js.map": "/rohit-website/static/js/main.813804b2.chunk.js.map",
+    "main.css": "/rohit-website/static/css/main.e3ad6aba.chunk.css",
+    "main.js": "/rohit-website/static/js/main.f3d53dab.chunk.js",
+    "main.js.map": "/rohit-website/static/js/main.f3d53dab.chunk.js.map",
     "runtime-main.js": "/rohit-website/static/js/runtime-main.9ef98838.js",
     "runtime-main.js.map": "/rohit-website/static/js/runtime-main.9ef98838.js.map",
-    "static/js/2.42ef7f56.chunk.js": "/rohit-website/static/js/2.42ef7f56.chunk.js",
-    "static/js/2.42ef7f56.chunk.js.map": "/rohit-website/static/js/2.42ef7f56.chunk.js.map",
+    "static/css/2.12165c4a.chunk.css": "/rohit-website/static/css/2.12165c4a.chunk.css",
+    "static/js/2.422f78fd.chunk.js": "/rohit-website/static/js/2.422f78fd.chunk.js",
+    "static/js/2.422f78fd.chunk.js.map": "/rohit-website/static/js/2.422f78fd.chunk.js.map",
     "index.html": "/rohit-website/index.html",
-    "precache-manifest.77d8e34cfc0ef130b5339dd2f904b571.js": "/rohit-website/precache-manifest.77d8e34cfc0ef130b5339dd2f904b571.js",
+    "precache-manifest.8f28d51dd71387bdfaa2e134976d2983.js": "/rohit-website/precache-manifest.8f28d51dd71387bdfaa2e134976d2983.js",
     "service-worker.js": "/rohit-website/service-worker.js",
-    "static/css/main.88be113e.chunk.css.map": "/rohit-website/static/css/main.88be113e.chunk.css.map",
-    "static/js/2.42ef7f56.chunk.js.LICENSE.txt": "/rohit-website/static/js/2.42ef7f56.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/rohit-website/static/media/logo.5d5d9eef.svg"
+    "static/css/2.12165c4a.chunk.css.map": "/rohit-website/static/css/2.12165c4a.chunk.css.map",
+    "static/css/main.e3ad6aba.chunk.css.map": "/rohit-website/static/css/main.e3ad6aba.chunk.css.map",
+    "static/js/2.422f78fd.chunk.js.LICENSE.txt": "/rohit-website/static/js/2.422f78fd.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/rohit-website/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/profile_photo.png": "/rohit-website/static/media/profile_photo.840f5f81.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9ef98838.js",
-    "static/js/2.42ef7f56.chunk.js",
-    "static/css/main.88be113e.chunk.css",
-    "static/js/main.813804b2.chunk.js"
+    "static/css/2.12165c4a.chunk.css",
+    "static/js/2.422f78fd.chunk.js",
+    "static/css/main.e3ad6aba.chunk.css",
+    "static/js/main.f3d53dab.chunk.js"
   ]
 }
