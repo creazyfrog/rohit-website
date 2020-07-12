@@ -1,14 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
+import MainComponent from './components/mainComponent';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Rohit Sharma Own Website</h1>
-        <h1>In Construction</h1>
-      </header>
+      <MainComponent></MainComponent>
     </div>
   );
 }

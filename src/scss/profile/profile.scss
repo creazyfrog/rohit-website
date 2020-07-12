@@ -1,0 +1,62 @@
+.profile-component {
+    display: inline-block;
+    width: 100%;
+    max-width: 380px;
+    height: 100%;
+    max-height: 90vh;
+    min-height: inherit;
+    text-align: center;
+    padding: 70px 30px 45px;
+    overflow: auto;
+}
+
+.profile-photo{
+    position: relative;
+    width: 180px;
+    margin: auto 43px;
+    z-index: 1;
+}
+
+.profile-photo-img{
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+}
+
+.profile-name h2{
+    font-size: 36px;
+    font-weight: 600;
+    color: #fff;
+    margin: 20px 0px 0 7px;
+    line-height: 1.2em;
+}
+
+.profile-name h4{
+    font-size: 18px;
+    font-weight: 300;
+    color: #fff;
+    margin: 10px 0;
+    line-height: 1.2em;
+}
+
+.profile-social-links{
+    margin: 20px 0px;
+}
+
+.social-links{
+    margin-right: 10px;
+}
+
+a.social-links{
+    color: wheat;
+}
+
+a.social-links:hover{
+    color:chartreuse;
+}
+
+.profile-download-button button{
+    width: 160px;
+    border-radius: 10px;
+    height: 40px;
+}

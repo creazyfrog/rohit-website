@@ -1,0 +1,17 @@
+.main-component{
+    display: flex;
+    height: 100vh;
+    background: linear-gradient(#000000, #7575a3);
+    ;
+}
+
+.left-component{
+    flex-basis: 30%;
+}
+
+.right-component{
+    flex-basis: 70%;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    background: lightgray;
+}
