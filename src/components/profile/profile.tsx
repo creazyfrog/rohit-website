@@ -26,31 +26,35 @@ function ProfileComponent() {
           className="social-links"
           href="http://www.facebook.com/rohitsharma308"
         >
-          <i className="fa fa-facebook"></i>
+          <i className="fa fa-facebook fa-lg"></i>
         </a>
         <a
           className="social-links"
           href="https://www.linkedin.com/in/rohit-sharma-86161051/"
         >
-          <i className="fa fa-linkedin"></i>
+          <i className="fa fa-linkedin fa-lg"></i>
         </a>
         <a className="social-links" href="https://twitter.com/rohitcsegec">
-          <i className="fa fa-twitter"></i>
+          <i className="fa fa-twitter fa-lg"></i>
         </a>
         <a
           className="social-links"
           href="https://www.instagram.com/rohitsharma308/"
         >
-          <i className="fa fa-instagram"></i>
+          <i className="fa fa-instagram fa-lg"></i>
         </a>
         <a
           className="social-links"
           href="https://www.youtube.com/channel/UCvSYuZZWSOAQA_9XiMtGr2A?view_as=subscriber"
         >
-          <i className="fa fa-youtube"></i>
+          <i className="fa fa-youtube fa-lg"></i>
         </a>
-        <a className="social-links" href=" https://github.com/creazyfrog" title="GitHub">
-          <i className="fa fa-github"></i>
+        <a
+          className="social-links"
+          href=" https://github.com/creazyfrog"
+          title="GitHub"
+        >
+          <i className="fa fa-github fa-lg"></i>
         </a>
       </div>
       <div className="profile-download-button">
