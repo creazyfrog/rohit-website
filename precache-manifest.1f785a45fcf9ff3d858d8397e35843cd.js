@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db728e3701d721e11b9731dc0a02b091",
+    "revision": "e815777a35ce80073d2c6b6070552cf6",
     "url": "/rohit-website/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rohit-website/static/css/2.12165c4a.chunk.css"
   },
   {
-    "revision": "1fde5eda66a6cdb5bd02",
+    "revision": "782fad3c17c44ced8354",
     "url": "/rohit-website/static/css/main.e3ad6aba.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rohit-website/static/js/2.422f78fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1fde5eda66a6cdb5bd02",
-    "url": "/rohit-website/static/js/main.75a4ff5c.chunk.js"
+    "revision": "782fad3c17c44ced8354",
+    "url": "/rohit-website/static/js/main.f73ba71a.chunk.js"
   },
   {
     "revision": "375e579d88eef54713d0",
